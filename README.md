@@ -8,6 +8,10 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <a name="spec" />
 
+## UIDevice
+
+* [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDeviceComplete is an iOS library intended to be a collection of extensions to UIDevice that provide functionality that UIDevice currently lacks like determining which iOS device you have (i.e iPhone SE, iPad Pro, iPhone7 etc) or determining the screen size of the device in inches. Written in Swift
+
 ## UITextField
 
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.
